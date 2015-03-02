@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME402: Design Decisions in Engineering"
+course_description: "A detailed introduction to design, product, and process decisions, focusing on safety and ethics, economic and quality decisions, lifecycles, statistics and sensitivity analysis, operational research, case studies, and management decisions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Decision Support Systems** <span id="3"></span> 
 *Decision support systems (DSS) are computerized systems developed to
 assist decision making.  In this unit, you will learn basic premises of

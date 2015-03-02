@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME402: Design Decisions in Engineering"
+course_description: "A detailed introduction to design, product, and process decisions, focusing on safety and ethics, economic and quality decisions, lifecycles, statistics and sensitivity analysis, operational research, case studies, and management decisions."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction To Design Decisions** <span id="1"></span> 
 *This unit provides an overview of the process of making decisions for
 engineering design.  Subunit 1.1 will refresh what you learned in
