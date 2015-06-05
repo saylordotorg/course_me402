@@ -132,4 +132,10 @@ addition, each reading, lecture, or assignment also will provide you
 with an estimate of how long it will take to complete each item.  Feel
 free to spend more time on sections that you want to learn more about.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/me402/Unit01/)
+- [Unit 2](https://legacy.saylor.org/me402/Unit02/)
+- [Unit 3](https://legacy.saylor.org/me402/Unit03/)
+- [Unit 4](https://legacy.saylor.org/me402/Unit04/)
+- [Unit 5](https://legacy.saylor.org/me402/Unit05/)
