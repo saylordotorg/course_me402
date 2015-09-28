@@ -156,3 +156,4 @@ free to spend more time on sections that you want to learn more about.
 - [Unit 3](https://legacy.saylor.org/me402/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me402/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me402/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME402/ME402-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME402/ME402-FinalExam-Answers.html)
