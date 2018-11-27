@@ -145,13 +145,13 @@ id="4.1.1"></span> 
 **4.1.5 Multi-Objective Optimization** <span id="4.1.5"></span> 
 -   **Assessment: The Saylor Foundation’s “Constrained Optimization”**
     Link: The Saylor Foundation’s “[Constrained
-    Optimization](http://www.saylor.org/site/wp-content/uploads/2012/08/ME-402-4.1-Assessment-7-Constrained-Optimization.FINAL_.pdf)”
+    Optimization](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME-402-4.1-Assessment-7-Constrained-Optimization.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done --
     or if you are stuck! -- check your work against the Saylor
     Foundation’s “[Constrained Optimization Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/08/ME-402-4.1-Assessment-7-Constrained-Optimization-Answer-Key.FINAL_.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME-402-4.1-Assessment-7-Constrained-Optimization-Answer-Key.FINAL_.pdf)”
     (PDF). Consult the tutorials suggested in the assessment.
 
 -   **Reading: Professor Richard de Neufville’s, Applied Systems
@@ -360,7 +360,7 @@ id="4.1.1"></span> 
 -   **Assessment: The Saylor Foundation’s "Risk Assessment and Decision
     Analysis"**
     Link: The Saylor Foundation’s "[Risk Assessment and Decision
-    Analysis](http://www.saylor.org/site/wp-content/uploads/2012/05/ME-402-Assignment-Unit-4.3.FINAL_.pdf)"
+    Analysis](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME-402-Assignment-Unit-4.3.FINAL_.pdf)"
     (PDF)  
         
      Instructions: Please complete the linked assignment.  When you are
@@ -498,13 +498,13 @@ id="4.1.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Quiz”**
     Link: The Saylor Foundation’s “[Unit 4
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2012/05/ME-402-Assessment-End-Unit-4.FINAL_.pdf)”
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME-402-Assessment-End-Unit-4.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please complete the linked assignment.  When you are
     done--or if you are stuck!--check your work against The Saylor
     Foundation’s “[Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/05/ME-402-AnswerKey-End-Unit-4.FINAL_.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME-402-AnswerKey-End-Unit-4.FINAL_.pdf)”
     (PDF).
 
 

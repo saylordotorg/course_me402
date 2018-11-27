@@ -137,13 +137,13 @@ the Dialog Subsystems** <span id="3.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s “[Unit 3
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/08/ME-402-Assessment-Unit-3.FINAL_.pdf)”
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME-402-Assessment-Unit-3.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Complete the linked assessment. When you are done --
     or if you are stuck! -- check your work against the Saylor
     Foundation’s “[Unit 3 Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2012/08/ME-402-Assessment-Answer-Key-Unit-3.FINAL_.pdf)”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME-402-Assessment-Answer-Key-Unit-3.FINAL_.pdf)”
     (PDF). Consult the tutorials suggested in the assessment.
 
 
