@@ -139,13 +139,13 @@ id="2.2"></span> 
 -   **Assessment: The Saylor Foundation’s “On Analytic Hierarchy
     Process”**
     Link: The Saylor Foundation’s “[On Analytic Hierarchy
-    Process](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ME-402-Assessment-Unit-2.2.2.FINAL_.pdf)”
+    Process](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ME-402-Assessment-Unit-2.2.2.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please complete the linked assessment.  When you are
     done--or if you are stuck!--check your work against The Saylor
     Foundation’s “[Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ME-402-AnswerKey-Unit-2.2.2.FINAL_.pdf)”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ME-402-AnswerKey-Unit-2.2.2.FINAL_.pdf)”
     (PDF).
 
 **2.2.3 Quality Function Deployment (QFD)** <span id="2.2.3"></span> 
@@ -407,13 +407,13 @@ id="2.6"></span> 
 -   **Assessment: The Saylor Foundation’s "Unit 2 Discussion
     Questions"**
     Link: The Saylor Foundation’s "[Unit 2 Discussion
-    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME-402-Assignment-Unit-2-FINAL.pdf)"
+    Questions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME-402-Assignment-Unit-2-FINAL.pdf)"
     (PDF)  
         
      Instructions: Please complete "Unit 2 Discussion Questions." When
     you are done--or if you are stuck!--check your work against the
     Saylor Foundation’s “[Unit 2 Discussion Questions Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/05/ME-402-Answer-Key-Unit-2-FINAL.pdf).”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/ME-402-Answer-Key-Unit-2-FINAL.pdf).”
     (PDF)
 
 -   **Reading: National Academy of Engineering’s book, Approaches to
